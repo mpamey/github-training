@@ -8,7 +8,7 @@
 4. Check whether you have all the required installations: `pip list`. This should show a list of installed packages.
 
 ## Assignment
-- Make new functions `distract`, `divide`, and `multiply` for the `mymath` module, and push your changes.
+- Make new functions `subtract`, `divide`, and `multiply` for the `mymath` module, and push your changes.
 - For each function, ensure you add your changes in a separate branch that is diverged from the `main` branch.
 - When you have finished your task, submit a pull request (PR). Ask others for a review via the Github interface.
 
