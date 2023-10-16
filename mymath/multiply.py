@@ -1,3 +1,3 @@
-def add(x, y):
+def multiply(x, y):
     """Multiply two numbers"""
     return x*y
