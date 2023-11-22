@@ -8,11 +8,6 @@ def substract(x, y):
     return x - y
 
 
-def divide(x, y):
-    """Divide two numbers together."""
-    return x / y
-
-
 def multiply(x, y):
     """Multiply two numbers together."""
     return x * y
