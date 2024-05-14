@@ -1,6 +1,7 @@
-'''
-Set up file 
-'''
+"""
+ja goede info
+"""
+
 from setuptools import setup, find_packages
 
 setup(
