@@ -1,6 +1,6 @@
-'''
-Mathematical functions 
-'''
+"""
+tester functies
+"""
 from mymath import add
 
 
